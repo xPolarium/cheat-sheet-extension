@@ -4,6 +4,7 @@
 	"description": "Save keybinds for the programs that you use to increase productivity.",
 	"version": "1.0",
 	"action": {
-		"default_popup": "index.html"
+		"default_popup": "index.html",
+		"default_icon": "react.svg"
 	}
 }
